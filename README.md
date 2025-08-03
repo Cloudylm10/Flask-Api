@@ -32,3 +32,11 @@ git clone https://github.com/yourusername/travel-api.git
 cd travel-api
 docker-compose up --build
 The API will be available at http://localhost:5000
+
+### Local Development (Without Docker)
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/yourusername/travel-api.git
+cd travel-api
+
