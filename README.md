@@ -57,11 +57,3 @@ A RESTful API for managing travel destinations built with Flask, SQLAlchemy, and
 3. Run the application:
    ```bash
    flask run
-   
-
-
-   
-
-   
-
-
