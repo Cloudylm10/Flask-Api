@@ -31,3 +31,4 @@ A RESTful API for managing travel destinations built with Flask, SQLAlchemy, and
 git clone https://github.com/yourusername/travel-api.git
 cd travel-api
 docker-compose up --build
+The API will be available at http://localhost:5000
