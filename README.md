@@ -188,15 +188,3 @@ You don't need a separate `requirements.txt` file. Just install these Python dep
 
 ```bash
 pip install Flask==2.3.2 Flask-SQLAlchemy==3.0.3
-
-
-
-
-
-
-
-
-
-   
-
-
