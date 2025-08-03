@@ -158,7 +158,14 @@ This project is licensed under the **MIT License**.
 
 ---
 
-# Initial Git Setup
+## 🙏 Acknowledgements
+
+- Flask and SQLAlchemy teams
+- Docker community
+- All open source contributors
+
+
+## Initial Git Setup
 
 Follow the steps below to initialize a Git repository and push your project to GitHub.
 
@@ -175,19 +182,14 @@ git remote add origin https://github.com/yourusername/travel-api.git
 git branch -M main
 git push -u origin main
 
-
-## Python Requirements
+##Python Requirements
 
 You don't need a separate `requirements.txt` file. Just install these Python dependencies:
 
 ```bash
 pip install Flask==2.3.2 Flask-SQLAlchemy==3.0.3
 
-## 🙏 Acknowledgements
 
-- Flask and SQLAlchemy teams
-- Docker community
-- All open source contributors
 
 
 
